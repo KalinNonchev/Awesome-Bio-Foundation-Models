@@ -947,6 +947,25 @@ Papers are ranked chronologically.
 
 
 
+
+* **(DeepSpot) DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images**
+  
+  [![](https://img.shields.io/badge/medRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ratschlab/DeepSpot)
+  [![Stars](https://img.shields.io/github/stars/ratschlab/DeepSpot?color=yellow&style=social)](https://github.com/ratschlab/DeepSpot)
+
+* **(DeepSpot2Cell) DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2025_Imageomics-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=ofCkwXQKaz)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ratschlab/DeepSpot2Cell)
+  [![Stars](https://img.shields.io/github/stars/ratschlab/DeepSpot2Cell?color=yellow&style=social)](https://github.com/ratschlab/DeepSpot2Cell)
+
+* **(DeepSpot-M) DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology**
+  
+  [![](https://img.shields.io/badge/medRxiv_2026-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ratschlab/DeepSpotM)
+  [![Stars](https://img.shields.io/github/stars/ratschlab/DeepSpotM?color=yellow&style=social)](https://github.com/ratschlab/DeepSpotM)
+
 ## Related Resources
 
 ### <code>Related Surveys</code>
