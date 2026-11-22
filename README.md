@@ -966,6 +966,22 @@ Papers are ranked chronologically.
   [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ratschlab/DeepSpotM)
   [![Stars](https://img.shields.io/github/stars/ratschlab/DeepSpotM?color=yellow&style=social)](https://github.com/ratschlab/DeepSpotM)
 
+* **(DeepSpot-M) Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs**
+  
+  [![](https://img.shields.io/badge/medRxiv_2026-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)
+  [![Stars](https://img.shields.io/github/stars/ratschlab/projects2026-kidney-kpmp-analysis?color=yellow&style=social)](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)
+
+* **(KPMP atlas) KPMP virtual spatial transcriptomics atlas: DeepSpot-M predicted spatial gene expression (19,338 genes) for 1,534 H&E kidney biopsy slides from 476 KPMP participants**
+  
+  [![](https://img.shields.io/badge/medRxiv_2026-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
+  [![Dataset](https://img.shields.io/badge/Dataset-5291C8?style=flat&logo=huggingface&labelColor=555555)](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas)
+
+* **(KPMP Xenium) KPMP Xenium virtual spatial transcriptomics: DeepSpot-M predicted spatial gene expression (19,338 genes) for ~1.64M cells in 49 H&E sections of KPMP Xenium kidney biopsies**
+  
+  [![](https://img.shields.io/badge/medRxiv_2026-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
+  [![Dataset](https://img.shields.io/badge/Dataset-5291C8?style=flat&logo=huggingface&labelColor=555555)](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics)
+
 ## Related Resources
 
 ### <code>Related Surveys</code>
